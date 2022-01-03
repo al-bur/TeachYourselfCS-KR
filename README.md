@@ -112,7 +112,7 @@ OSTEP을 다 봤으면, 우리는 "{ㅇㅇ운영체제} 살펴보기" 같은 이
     
 우리가 가장 좋아하는 책은 *[Computer Networking: A Top-Down Approach(번역본: 컴퓨터 네트워킹 하향식 접근)](https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/)* 입니다. 이 책의 미니 프로젝트들과 문제풀이는 해볼 가치가 있고, 책에서 온라인에 제공한 ["Wireshark labs"](http://www-net.cs.umass.edu/wireshark-labs/)가 특히 좋습니다.
     
-비디오 강의를 선호하는 사람들에게는 예전엔 스탠포드의 MOOC 플랫폼인 Lagunita를 통해 제공되었지만, 슬프게도 이제는 유튜브의 비공식적인 플레이리스트로밖에 볼 수 없는 스탠포드의 *[Introduction to Computer Networking course](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)* 를 추천합니다.
+비디오 강의를 선호하는 사람들에게는 예전엔 스탠포드의 MOOC 플랫폼인 Lagunita를 통해 제공되었지만, 슬프게도 이제는 유튜브의 비공식적인 플레이리스트로밖에 볼 수 없는 스탠포드의 *[Introduction to Computer Networking course](https://www.youtube.com/watch?v=qAFI-2I7wPE&list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS)* 를 추천합니다.
 
 ### 데이터베이스
 데이터베이스 시스템은 다른 주제보다 더 독학하기 힘듭니다. 꽁꽁 숨겨진 상업적인 인센티브를 위한 아이디어가 많은 상대적으로 최신(1970년대 이후) 학문이죠. 추가적으로, 많은 잠재적인 훌륭한 교재 저자들은 회사로 들어갔거나 창업하기를 선호하였습니다.
